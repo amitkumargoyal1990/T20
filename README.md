@@ -1,6 +1,20 @@
 # Best 11 for T20 World Cup 🏏 
 This project is about find the best combination squad for T20 World Cup, players should be able to score 180 runs in an innings and be able to defend 150 runs on an Average
 
+## Roadmap
+
+1. Collection of Data from ESPN CricInfo Website for T20 Matches held between 2020 to 2022.
+
+2. Converting an unstructured JSON to CSV, Performing Data Cleaning such as Removing the NULL values and unwanted data. 
+
+3. Adding the columns such as Stage column in Matches Table for dividing data in Group Stage
+and World Cup Matches then boundary runs in Batting and bowling Info Table.
+
+4. Creating Measures for Total Runs, Total Innings, Batting Average, Bowling Average, 
+Overall Strike Rate, Total bowls faced, Average Batting Position, Boundary%, Total Wickets,
+Total Runs Conceded, Bowling Economy, Bowling Strike Rate, Bowling Average.
+
+
 ## Criteria Used for Filtering Players
 
 1. Openers Criteria:-
@@ -41,19 +55,6 @@ This project is about find the best combination squad for T20 World Cup, players
    - Bowling Style of the Player should contain "FAST"
    - Bowling Average should be less than 20
 
-
-## Roadmap
-
-1. Collection of Data from ESPN CricInfo Website for T20 Matches held between 2020 to 2022.
-
-2. Converting an unstructured JSON to CSV, Performing Data Cleaning such as Removing the NULL values and unwanted data. 
-
-3. Adding the columns such as Stage column in Matches Table for dividing data in Group Stage
-and World Cup Matches then boundary runs in Batting and bowling Info Table.
-
-4. Creating Measures for Total Runs, Total Innings, Batting Average, Bowling Average, 
-Overall Strike Rate, Total bowls faced, Average Batting Position, Boundary%, Total Wickets,
-Total Runs Conceded, Bowling Economy, Bowling Strike Rate, Bowling Average.
 
 
 
