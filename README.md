@@ -99,28 +99,27 @@ SUM(), COUNT(), AVERAGE(), DIVIDE(), ROUND(), DISTINCTCOUNT(), ISFILTERED(), IF(
 
 ## Tech Stack
 
-**Tech:** Python, PowerBI Desktop, PowerBI Service, 
-          Jupyter Notebook
-
-**Libraries:** Request, BeautifulSoup, Pandas, DAX
-
+**Tech:** Python, PowerBI Desktop, Dax, PowerBI Service, Jupyter Notebook
 
 ## Batting Chart
 
-![App Screenshot](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/blob/main/Images/Openers.png?raw=true)
+![image](https://github.com/amitkumargoyal1990/T20-World-Cup-Cricket-Data-Analytics/assets/90434295/fcc2dd54-54be-4b67-aa5a-bc4e13a8f39a)
 
 
 ## Bowling Chart
 
-![App Screenshot](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/blob/main/Images/bowlers.png?raw=true)
+![image](https://github.com/amitkumargoyal1990/T20-World-Cup-Cricket-Data-Analytics/assets/90434295/8b8b354e-b08f-4574-ada8-0c19059f4adb)
+
 
 ## Player Chart
 
-![App Screenshot](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/blob/main/Images/playerinfo.png?raw=true)
+![image](https://github.com/amitkumargoyal1990/T20-World-Cup-Cricket-Data-Analytics/assets/90434295/98ef6e90-901a-4ef1-9e71-33a04c1f78cc)
+
 
 ## Selected Playing 11
 
-![App Screenshot](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/blob/main/Images/playing11.png?raw=true)
+![image](https://github.com/amitkumargoyal1990/T20-World-Cup-Cricket-Data-Analytics/assets/90434295/d2baace2-029d-442f-b62c-fab7d5160480)
+
 
 
 ### Conclusion
