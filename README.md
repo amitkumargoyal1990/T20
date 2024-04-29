@@ -123,8 +123,6 @@ SUM(), COUNT(), AVERAGE(), DIVIDE(), ROUND(), DISTINCTCOUNT(), ISFILTERED(), IF(
 ![App Screenshot](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/blob/main/Images/playing11.png?raw=true)
 
 
-## Lessons Learned
-
 ### Conclusion
 Web Scrapping and Analysing data. Data transformation in power query.
 PowerBI Chart creation. Adding Measures using DAX Functions. Adding Filters
